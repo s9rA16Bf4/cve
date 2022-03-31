@@ -1,0 +1,6 @@
+github.com/s9rA16Bf4/ArgumentParser v0.0.0-20220101094000-f8d9d87d9f53 h1:akl2MS7V0ipKZfUr5P/3EjVxg+lfDrGgJtsy7Itv34w=
+github.com/s9rA16Bf4/ArgumentParser v0.0.0-20220101094000-f8d9d87d9f53/go.mod h1:NRKlnWNTdhYI+whq5u0Dx+pH/iE+NMGg/31yuWPHwaU=
+github.com/s9rA16Bf4/notify_handler v0.0.0-20220308220434-c95f1e79b7b2 h1:QPzwox6SpFhcUrTdk43kZ0WQ3IpwOnv7R7jFiDT1CZQ=
+github.com/s9rA16Bf4/notify_handler v0.0.0-20220308220434-c95f1e79b7b2/go.mod h1:QNjxlxplV4bgRq0hMkD/ssRExdUmsuqql+lRh9afWgA=
+gopkg.in/go-rillas/subprocess.v1 v1.0.1 h1:7BKf22lkgKdPh5/tnAtUI9oE3BQNwaAlCB4g4DMcuvw=
+gopkg.in/go-rillas/subprocess.v1 v1.0.1/go.mod h1:SEn6IkZR3/CKq2aWTZbCyXDKR1NBUr72knNTVL7vdeo=
